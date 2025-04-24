@@ -64,10 +64,12 @@
     font-size: 2vmin;
     border-radius: 4vmin;
     border: 0.1vmin solid grey;
-    color: grey;
+    color: grey;]
+    cursor: pointer;
   }
   
   button:hover {
     color: white;
     background-color: darkgrey;
+    cursor: pointer;
   }
